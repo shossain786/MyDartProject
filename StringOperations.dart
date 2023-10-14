@@ -1,10 +1,13 @@
 void main(){
-  String str = 'This is first line.' + 'This is second line.';
+  String str = 'This is first line.' + ' This is second line.';
   print(str);
   // in Dart using + symbol is bad programming
   // both the operation are similar
-  String str1 = 'This is first line.' 'This is second line.';
+  String str1 = 'This is first line.' ' This is second line.';
   print(str1);
+
+  String str2 = "Welcome to Dart Programming.";
+  print('$str1 $str2');
 
   // String interpolation
   String name = 'Saddam';

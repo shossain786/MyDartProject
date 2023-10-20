@@ -1,4 +1,4 @@
-// In this class we we cover Class, Variables
+// In this class we will cover Class, Variables
 // Constructor : default, Parameterised, named constructor
 void main() {
   /*Calculator obj = Calculator();
